@@ -11,4 +11,6 @@ Input files:
 - Raw data: Crime_Data_from_2020_to_Present.csv
 - Processed data: crime_clean_data
 
-Furtheremore, there is a compiled version of the code in HTML "CodeCrimeLA.html".
+Furtheremore, there is a compiled version of the code in HTML "DataAnalysis_CodeAndOutput.html".
+
+Finally, the analysis is reported in the PDF.
