@@ -13,4 +13,4 @@ Input files:
 
 Furtheremore, there is a compiled version of the code in HTML "DataAnalysis_CodeAndOutput.html".
 
-Finally, the analysis is reported in the PDF.
+Finally, the report is in PDF format in the file "LAPD_Analysis_Report".
