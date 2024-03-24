@@ -9,7 +9,7 @@ Code:
 Input files: 
 
 - Raw data: Crime_Data_from_2020_to_Present.csv
-- Processed data: crime_clean_data
+- Processed data: crime_clean_data.csv
 
 Furtheremore, there is a compiled version of the code in HTML "DataAnalysis_CodeAndOutput.html".
 
