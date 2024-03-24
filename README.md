@@ -1,4 +1,4 @@
-# Project Report: Los Angeles Crime Analysis
+# Los Angeles Crime Analysis
 
 In this repository you can find the zip file "CodeAndData" which contains:
 
